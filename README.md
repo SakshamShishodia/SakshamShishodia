@@ -2,7 +2,7 @@
 
 ## 💼 About Me
 
-🎯 Aspiring Data Analyst passionate about transforming raw data into actionable insights.
+🎯 Data Analyst passionate about transforming raw data into actionable insights.
 
 📊 Skilled in:
 - Python
