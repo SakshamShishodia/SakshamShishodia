@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Saksham Shishodia 👋
 
-<!--
-**SakshamShishodia/SakshamShishodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
 
-Here are some ideas to get you started:
+🎯 Aspiring Data Analyst passionate about transforming raw data into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skilled in:
+- Python
+- SQL
+- Power BI
+- Excel
+- Streamlit
+
+📈 Currently building real-world Data Analytics projects to strengthen my portfolio and solve business problems using data.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- 🎵 France Top 50 Playlist Analysis
+- 🎓 EduPro Learning Platform Analysis
+- ⚡ EV Sales Dashboard
+- 💎 Jewelry Sales Dashboard
+
+---
+
+## 🏆 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Oracle Data Platform 2025 Certified Foundations Associate
+- Cisco Data Analytics Essentials
+- TATA Data Visualisation Job Simulation
+- Standard Chartered Credit Analyst Job Simulation
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *https://www.linkedin.com/in/saksham-shishodia/*
+- Email: *Sakshamshishodia@gmail.com*
+
+---
+
+⭐ Thanks for visiting my profile!
